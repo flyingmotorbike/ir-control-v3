@@ -12,7 +12,7 @@ DFRobotMaqueenPlusV2.onIrDatagram(function (message) {
     }
     if (message == 22) {
         DFRobotMaqueenPlusV2.controlMotor(MyEnumMotor.eLeftMotor, MyEnumDir.eForward, 25)
-        DFRobotMaqueenPlusV2.controlMotor(MyEnumMotor.eLeftMotor, MyEnumDir.eForward, 50)
+        DFRobotMaqueenPlusV2.controlMotor(MyEnumMotor.eRightMotor, MyEnumDir.eForward, 50)
     }
 })
 DFRobotMaqueenPlusV2.init()
