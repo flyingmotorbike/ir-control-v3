@@ -1,5 +1,5 @@
 {
-    "name": "IR Test",
+    "name": "IR Control",
     "description": "",
     "dependencies": {
         "core": "*",
