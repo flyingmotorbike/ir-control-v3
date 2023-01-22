@@ -1,22 +1,22 @@
 function Turn_Right () {
-    DFRobotMaqueenPlusV2.controlMotor(MyEnumMotor.eLeftMotor, MyEnumDir.eForward, 50)
     DFRobotMaqueenPlusV2.controlMotor(MyEnumMotor.eRightMotor, MyEnumDir.eForward, 25)
+    DFRobotMaqueenPlusV2.controlMotor(MyEnumMotor.eLeftMotor, MyEnumDir.eForward, 50)
 }
 DFRobotMaqueenPlusV2.onIrDatagram(function (message) {
     basic.showNumber(message)
-    if (message == 13) {
+    if (message == 0) {
         Move_Forward()
     }
-    if (message == 6) {
+    if (message == 2) {
         Stop()
     }
-    if (message == 12) {
+    if (message == 10) {
         Turn_Right()
     }
-    if (message == 14) {
+    if (message == 8) {
         Turn_Left()
     }
-    if (message == 17) {
+    if (message == 9) {
         Move_Backward()
     }
 })
