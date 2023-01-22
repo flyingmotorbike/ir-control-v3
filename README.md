@@ -1,5 +1,5 @@
 
-> Open this page at [https://flyingmotorbike.github.io/ir-test/](https://flyingmotorbike.github.io/ir-test/)
+> Open this page at [https://flyingmotorbike.github.io/ir-control-v3/](https://flyingmotorbike.github.io/ir-control-v3/)
 
 ## Use as Extension
 
@@ -8,22 +8,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/flyingmotorbike/ir-test** and import
+* search for **https://github.com/flyingmotorbike/ir-control-v3** and import
 
-## Edit this project ![Build status badge](https://github.com/flyingmotorbike/ir-test/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/flyingmotorbike/ir-control-v3/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/flyingmotorbike/ir-test** and click import
+* paste **https://github.com/flyingmotorbike/ir-control-v3** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/flyingmotorbike/ir-test/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/flyingmotorbike/ir-control-v3/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
