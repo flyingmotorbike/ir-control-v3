@@ -1,5 +1,5 @@
 {
-    "name": "IR Control",
+    "name": "IR-Control-v3",
     "description": "",
     "dependencies": {
         "core": "*",
